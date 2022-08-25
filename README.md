@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisca Rivas</h1>
 <h3 align="center">A computer engineering student</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **panchianubis@gmail.com**
 
